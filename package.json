@@ -2,7 +2,7 @@
   "name": "arepafetcher",
   "version": "1.0.0",
   "description": "reactjs and nextjs app to fetch hispachan.org data",
-  "main": "index.js",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/luisoliv/ArepaFetcher#readme",
   "dependencies": {
+    "@chakra-ui/core": "^0.6.1",
     "next": "^9.3.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
