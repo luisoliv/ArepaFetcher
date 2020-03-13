@@ -1,0 +1,30 @@
+{
+  "name": "arepafetcher",
+  "version": "1.0.0",
+  "description": "reactjs and nextjs app to fetch hispachan.org data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisoliv/ArepaFetcher.git"
+  },
+  "author": "Luis Oliva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisoliv/ArepaFetcher/issues"
+  },
+  "homepage": "https://github.com/luisoliv/ArepaFetcher#readme",
+  "dependencies": {
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "now": "^17.0.4",
+    "now-cli": "0.0.0"
+  }
+}
